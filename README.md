@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajinkya</h1>
-<h3 align="center">A Passionate Data Analyst from India Always learning new technologies</h3>
+<h3 align="center"><marquee direction="right" bgcolor="red">A Passionate Data Analyst from India Always learning new technologies</marquee></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omnicart&label=Profile%20views&color=0e75b6&style=plastic" alt="omnicart" /> </p>
 
