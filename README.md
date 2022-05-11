@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omnicart" alt="omnicart" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/asp_ajinkya" target="blank"><img src="https://img.shields.io/twitter/follow/asp_ajinkya?logo=twitter&style=for-the-badge" alt="asp_ajinkya" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:pawar.ajinkya28@gmail.com</h3>
 <p align="left">
 <a href="https://twitter.com/asp_ajinkya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asp_ajinkya" height="30" width="40" /></a>
 </p>
